@@ -62,10 +62,10 @@ def part_two():
     return count
 
 
-# ANSWERS
+## ANSWERS
 answers = [
         [part_one, 969],
-        [part_two, 5366],
+        [part_two, 5887],
 ]
 
 if __name__ == "__main__":
