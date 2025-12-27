@@ -23,7 +23,7 @@ python3 dayN.py
 ```
 
 ## Layout
-The input data for each day lives in [`data/inputX.txt`](./data) where `X` is the day number. The functions in [`utils.py`](./utils.py) provide convience functions for looking up and parsing the input data.
+The input data for each day lives in [`data/inputX.txt`](./data) where `X` is the day number. The functions in [`inputs.py`](./inputs.py) provide convience functions for looking up and parsing the input data.
 
 Each `dayN.py` file defines two functions `part1()` and `part2` along with a global `answers` variable which is an array that looks like
 
