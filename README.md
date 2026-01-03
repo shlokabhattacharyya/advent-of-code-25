@@ -34,4 +34,4 @@ answers = [
 ]
 ```
 
-This is then imported into [`main.py`](main.py) where the two functions are run, timed and compared against what's expected. [`day_template.py`](day_template.py) is just a template for copying and pasting each day all the scaffolding.
+This is then imported into [`main.py`](main.py) where the two functions are run, timed and compared against what's expected.
